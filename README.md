@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
-🐧 立志做全栈攻城狮，梦想是成为雷军那样的伟大的程序员，代码写的像诗一样优美。  
+🐧 立志做全栈工程师，梦想是成为雷军那样的伟大的程序员，代码写的像诗一样优美。  
 👨‍💻 经历：关于我，19 线程序员小 UP  
 🏡 作品： [仿王者荣耀官网](https://github.com/nature999/HonorOfKing/tree/main/21_HonorOfKing%E5%90%88%E5%B9%B6) [扣丁学堂](https://github.com/nature999/Code-Data/tree/main/040-color-block-construction)    
 🌱 个人公众号：用代码照亮生活  
