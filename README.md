@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 🐧 立志做全栈工程师，梦想是成为雷军那样的伟大的程序员，代码写的像诗一样优美。  
 👨‍💻 经历：关于我，19 线程序员小 UP  
-🏡 作品： [仿王者荣耀官网](https://github.com/nature999/HonorOfKing/tree/main/21_HonorOfKing%E5%90%88%E5%B9%B6) [扣丁学堂](https://github.com/nature999/Code-Data/tree/main/040-color-block-construction)    
+🏡 作品： [仿王者荣耀官网](https://github.com/nature999/HonorOfKing/tree/main/21_HonorOfKing%E5%90%88%E5%B9%B6) [扣丁学堂](https://github.com/nature999/Code-Data/tree/main/040-color-block-construction)  [小兔鲜](https://github.com/nature999/HTML5-CSS3/blob/main/day10/xtx-pc/index.html)
 🌱 个人公众号：用代码照亮生活  
 😺 [B站 nature235](https://space.bilibili.com/402323323?spm_id_from=333.788.0.0)  
 🤔 [CSDN Geek_feng](https://blog.csdn.net/weixin_45631096?spm=1010.2135.3001.5421)   
